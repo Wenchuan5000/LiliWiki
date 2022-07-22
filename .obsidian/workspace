@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "331220564def2ab2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6af51262fe9f21d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General Topology/General Topology.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "296d18c7bd9a4ccf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General Topology/Metric Spaces.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3b7bc03e136e060",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73f88ffed4f0f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65efd8961c43298d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb3beb5b706524e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a27610976d99c90",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f51ff2a1986d931",
+    "type": "split",
+    "children": [
+      {
+        "id": "50afa085761a9ed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "979c196e7e7bdc6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General Topology/General Topology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a169ca3159e0a602",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General Topology/General Topology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5832a2a70c068d2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9555f208b92d1884",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General Topology/General Topology.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9cb7b5e9da53655d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7fc99eae45be9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Topology/Metric Spaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "65efd8961c43298d",
+  "lastOpenFiles": [
+    "General Topology/Metric Spaces.md",
+    "General Topology/General Topology.md",
+    "General Topology/Bases of Sets.md",
+    "README.md"
+  ]
+}
