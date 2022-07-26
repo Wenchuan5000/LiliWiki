@@ -9,14 +9,14 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Topology/General Topology.md",
+            "file": "General Topology/Bases of Sets.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "296d18c7bd9a4ccf",
+        "id": "5a152c37b1999f85",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Topology/General Topology.md",
+                "file": "General Topology/Bases of Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Topology/General Topology.md",
+                "file": "General Topology/Bases of Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Topology/General Topology.md"
+                "file": "General Topology/Bases of Sets.md"
               }
             }
           }
@@ -158,11 +158,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65efd8961c43298d",
+  "active": "d6af51262fe9f21d",
   "lastOpenFiles": [
-    "General Topology/Metric Spaces.md",
-    "General Topology/General Topology.md",
+    "General Topology/Topologies.md",
     "General Topology/Bases of Sets.md",
+    "General Topology/Complete Metric Spaces.md",
+    "General Topology/Metric Spaces.md",
     "README.md"
   ]
 }
