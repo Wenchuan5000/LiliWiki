@@ -1,4 +1,2 @@
 # README
 
-Lili $x$
-
